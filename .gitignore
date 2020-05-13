@@ -1,2 +1,4 @@
 .vs/
 SoundPrint/wwwroot/lib
+SoundPrint/bin/
+SoundPrint/obj/
